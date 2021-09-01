@@ -19,36 +19,9 @@ time.sleep(1)
 # Mettre votre description (qui est le message principale ici) 
 
 txt_desc = """
-**Organisation Illégale**
 
-__**Nom Du Groupe : Famille Luna & Moudics**__
+METTRE LE TEXT
 
-**Histoire du groupe :**
-
-> Le groupe c'est créé grâce à la confiance entre les deux familles de Mafieux ,
-> Les Moudics & Les Luna dans les années 1950 à New York .
-> Vers la fin des grands mafieux de la famille, les jeunes prêts à rejoindre le groupe afin reprendre
-> le pouvoir pour continuer à respecter la tradition. Mais après la prise du pouvoir des nouveaux
-> mafieux dans leurs villes Natale qui est New york dans le quartier du bronx ont réussi à prendre
-> le pouvoir dans tout le bronx et notre groupe a dû donc prendre un nouveau départ pour revenir
-> dans le futur pour reprendre ce qui leur revient de droit. Le groupe a déménagé dans une
-> nouvelle ville pour se refaire et reprendre du galon.
-
-**Membres du groupe :**
-
-> Dgibrile Moudic | Sous Chef |
-> Mouwlito Moudic | Sous Chef |
-> Hadil Moudic | Parrain Moudic |
-> Hijo Luna | Parrain Luna |
-> Hiram Luna | Sous Chef |
-> Manuel Keter | Soldat |
-
-**Objectifs :**
-
-> 1. Devenir Les Plus Riches et les plus craints.
-> 2. Pouvoir créer un réseaux de drogue dans notre nouvelle ville et avoir des yeux et
-> des oreilles dans toute la ville.
-> 3. Nous revendiquons le Quartier Riches.
 """
 
 
