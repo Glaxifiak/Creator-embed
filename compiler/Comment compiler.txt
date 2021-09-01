@@ -1,0 +1,10 @@
+|Il faut avoir python(c'est logique je pense)| 
+
+Avant tout faire cette commande :
+ 
+pip install pyinstaller
+
+commande pour compiler en un seul fichier et avec un icon :
+
+
+pyinstaller --noconfirm --onefile --console --icon "nom du fichier avec l'icone" "nom du fichier a compiler "

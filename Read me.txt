@@ -1,0 +1,8 @@
+Bonjour voila un tool pour crée des Embed discord avec des webhooks facilement ! Pour avoir du text dans la description qui est le corp de l'embed
+aller dans le fichier Embed Creator.py et chercher la variable txt_desc puis entre les """    """ vous maittez votre text .
+Vous pouvez utiliser les options discord par exemple mettre le text en gras, le souligné ext.
+
+Pour mettre une photos de profile il faut le lien de l'image, pour avoir le lien vous pouvez la poster sur un serveur discord ou une discussion privé et 
+faire click droit copier le lien.
+
+Si vous metter un URL il faut mettre un titre obligatoirement et le lien se mettra sur le titre .
